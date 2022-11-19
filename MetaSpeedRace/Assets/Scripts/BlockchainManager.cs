@@ -36,7 +36,7 @@ public class BlockchainManager : MonoBehaviour
 
 
 
-    public float[] coinCost = { 0.025f, 0.050f, 0.075f, 0.1f, 0.050f };
+    public float[] coinCost = { 0.00015f, 0.00030f, 0.00045f, 0.1f, 0.00060f };
 
     int[] coinGive = { 1000, 2000, 3500, 6000 };
 

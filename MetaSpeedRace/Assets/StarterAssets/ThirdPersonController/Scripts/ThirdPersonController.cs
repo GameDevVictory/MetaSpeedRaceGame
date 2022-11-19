@@ -994,7 +994,7 @@ public class ThirdPersonController : MonoBehaviourPunCallbacks,IPunObservable
                 LocalData data = DatabaseManager.Instance.GetLocalData();
                 data.soloRaceWon++;
                 DatabaseManager.Instance.UpdateData(data);
-                if (data.soloRaceWon % 4 == 0)
+                if (data.soloRaceWon % 1 == 0)
                 {
                     showTokenUI = true;
                 }
