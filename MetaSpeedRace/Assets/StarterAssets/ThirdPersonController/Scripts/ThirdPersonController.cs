@@ -1001,6 +1001,7 @@ public class ThirdPersonController : MonoBehaviourPunCallbacks,IPunObservable
 
             }
         }
+        if(won) showTokenUI = true;
         MetaManager.Instance.inRace = false;
         MetaManager.Instance.UpdatePlayerWorldProperties(false);
         
