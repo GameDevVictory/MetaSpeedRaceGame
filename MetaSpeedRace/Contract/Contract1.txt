@@ -9,8 +9,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 contract RaceMoralisContract is ERC1155 , Ownable  {
     
-    string constant public name = "RaceMoralisContract";
-    string constant fTs1DF = "tPzf";
+    string constant public name = "GTARaceNearContract";
 
 
     mapping(uint256 => string) _tokenUrls;
