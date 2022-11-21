@@ -8,8 +8,6 @@
 1) https://testnet.aurorascan.dev/address/0x2B992108c2464A10749656671710a65a828739ED
 2) https://testnet.aurorascan.dev/address/0xe538B088711a6A7e9C3f97933F4622ebD7856287
 
-#### Script : 
-
 ### Usage
 * in-app purchase
 * mint cars as NFT 1155
@@ -19,8 +17,8 @@
 
 
 ### Smart contract source code
-1) 
-2) 
+https://github.com/GameDevVictory/MetaSpeedRaceGame/blob/main/MetaSpeedRace/Contract/Contract1.txt
+https://github.com/GameDevVictory/MetaSpeedRaceGame/blob/main/MetaSpeedRace/Contract/Contract2.txt
 
 ![Use](/Images/SRC_1.jpg)
 ![Use](/Images/SRC_2.jpg)
