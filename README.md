@@ -1,7 +1,7 @@
 # Speed Racer
 Metaverse multiplayer racing game with multiple upgradable cars and with web3 features like NFT, ERC-20 reward, in-game purchase and more
 
-### [Click Here To Play](https://bafybeidw3krhtg7ldi6dfftnlukle34bia4uedauh4k5u3agt7psditaae.ipfs.gateway.valist.io/)
+### [Click Here To Play](https://bafybeid3hgewidwzq65fxrmcjwy4oavdo2c5im2kb4ahcfjeo7hx4i3pxe.ipfs.gateway.valist.io/)
 
 ### Setup Before Play
 * Aurora Testnet in Metamask
@@ -19,7 +19,7 @@ Metaverse multiplayer racing game with multiple upgradable cars and with web3 fe
 
 ## Technologies
 - Unity game engine
-- [Aurora (Testnet) for in-game purchase, cars NFT and reward token ERC-20, exchange token]()
+- [Aurora (Testnet) for in-game purchase, cars NFT and reward token ERC-20, exchange token](https://github.com/GameDevVictory/MetaSpeedRaceGame/blob/main/Near.md)
 - Remix IDE used to create smart contract for ERC-1155 NFT and In-app store
 - Blender
 - Iluustrator
